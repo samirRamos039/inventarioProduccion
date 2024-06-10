@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import login from './login'
+import Login from './Login'
 import "./style.css"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
