@@ -35,7 +35,7 @@ function App() {
                     </a>
                     <ul id="auth" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">
                         <li class="sidebar-item">
-                            <a href="#" class="sidebar-link">Login</a>
+                            <a href="http://localhost:8080/usuario" class="sidebar-link">Login</a>
                         </li>
                         <li class="sidebar-item">
                             <a href="#" class="sidebar-link">Register</a>
