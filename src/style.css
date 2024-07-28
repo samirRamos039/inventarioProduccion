@@ -40,7 +40,7 @@ body {
     min-width: 70px;
     z-index: 1000;
     transition: all .25s ease-in-out;
-    background-color: #1eb1b1;
+    background-color: #e3ebeb;
     display: flex;
     flex-direction: column;
 }
@@ -84,11 +84,12 @@ body {
 
 a.sidebar-link {
     padding: .625rem 1.625rem;
-    color: #FFF;
+    color: #d61f1f;
     display: block;
     font-size: 0.9rem;
     white-space: nowrap;
     border-left: 3px solid transparent;
+    
 }
 
 .sidebar-link i {
@@ -98,7 +99,7 @@ a.sidebar-link {
 
 a.sidebar-link:hover {
     background-color: rgba(255, 255, 255, .075);
-    border-left: 3px solid #3b7ddd;
+    border-left: 3px solid #f0f3f8;
 }
 
 .sidebar-item {
@@ -109,7 +110,7 @@ a.sidebar-link:hover {
     position: absolute;
     top: 0;
     left: 70px;
-    background-color: #14d0e9;
+    background-color: #f4f8f8;
     padding: 0;
     min-width: 15rem;
     display: none;
