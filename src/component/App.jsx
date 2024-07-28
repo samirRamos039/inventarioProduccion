@@ -1,4 +1,4 @@
-import slicebar from "./Routes"
+
 
 
 function App() {

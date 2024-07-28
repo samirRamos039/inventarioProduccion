@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Product from './Product'
 import Login from './Login'
 
-function Routes() {
+function Rutas() {
     <BrowserRouter>
         <Routes>
             <Route path='/Product' element={<Product />} />
@@ -11,4 +11,4 @@ function Routes() {
         </Routes>
     </BrowserRouter>
 }
-export default Routes
+export default Rutas
